@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "608268691326",
+    "firebase_url": "https://cardimageslider-6e967.firebaseio.com",
+    "project_id": "cardimageslider-6e967",
+    "storage_bucket": "cardimageslider-6e967.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608268691326:android:7b2fb87af069d093",
+        "android_client_info": {
+          "package_name": "com.example.franc.cardimageslider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608268691326-71a0f787hglb9gjh5nc68ss325g8n4tk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.franc.cardimageslider",
+            "certificate_hash": "93a3cbc9396608f58b0de76b56d27d22bc880976"
+          }
+        },
+        {
+          "client_id": "608268691326-j8bq9s5l37n1vku2qm85bihlspmergo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwbtaLbwP0KDzXCQaqyhQ2DL3GJpKDgBY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608268691326-j8bq9s5l37n1vku2qm85bihlspmergo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608268691326:android:c927863a97d95b51",
+        "android_client_info": {
+          "package_name": "com.example.franc.cardsliderimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608268691326-dh2f3b9rear7iua7h84e8o1eg143kpv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.franc.cardsliderimage",
+            "certificate_hash": "93a3cbc9396608f58b0de76b56d27d22bc880976"
+          }
+        },
+        {
+          "client_id": "608268691326-j8bq9s5l37n1vku2qm85bihlspmergo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwbtaLbwP0KDzXCQaqyhQ2DL3GJpKDgBY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608268691326-j8bq9s5l37n1vku2qm85bihlspmergo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
